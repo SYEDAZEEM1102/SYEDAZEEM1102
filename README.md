@@ -1,48 +1,45 @@
 # Syed Azeem
 
-**Crypto Domain Expert | Market Infrastructure | AI Training & Evaluation**
+**AI Researcher, Automation Builder & Content Strategist**
 
-14 years in financial markets. 8+ years trading crypto. I build tools and produce research that turns market noise into structured, actionable analysis.
+📍 Bangalore, India · [@AgenticEdgeAI](https://x.com/AgenticEdgeAI) · [LinkedIn](https://linkedin.com/in/syed-azeem-ab680935) · [syedazeem1102@gmail.com](mailto:syedazeem1102@gmail.com)
 
----
+> I turn complex AI developments into content that **1.2M+ people watch**, and build the automation systems behind it.
 
-### What I Do
-
-- **Daily Market Research** — Funding rates, liquidation levels, whale flows, narrative rotation
-- **On-Chain Analysis** — Smart money tracking, accumulation patterns, protocol economics
-- **Derivatives Trading** — Perpetuals across CEX (Binance, Bybit) and DEX (Hyperliquid, Uniswap, 1inch)
-- **Structured Reasoning** — Breaking complex market dynamics into step-by-step analysis with evidence
+🌐 **Live portfolio:** [SyAz Portfolio](https://github.com/SYEDAZEEM1102/personal-portfolio-web-link)
 
 ---
 
-### Tools I Work With
+### What I work on
 
-**On-Chain:** Nansen, Glassnode, Chainalysis, Dune, DefiLlama, Etherscan  
-**Market Intel:** Kaito AI, Artemis, Messari, CoinGecko  
-**Trading:** Binance, Bybit, Hyperliquid, TradingView (Pine Script)  
-**AI/LLM:** Claude, GPT, Gemini — daily use for research synthesis and output evaluation
+- **AI research & content** — daily tracking of model releases, frameworks, and tools; long-form scripts (2,500–3,000 words) for 1.2M+ subscriber YouTube channels
+- **Automation & agentic systems** — production n8n workflows, MCP server integrations, multi-model agent infrastructure on Docker
+- **End-to-end production** — ideation → research → script → editor handoff → short-form distribution
 
----
-
-### Projects
-
-| Repo | Description |
-|------|-------------|
-| [funding-rate-analyzer](https://github.com/SYEDAZEEM1102/funding-rate-analyzer) | Python tool for analyzing perpetual funding rates and identifying leverage extremes |
-| [crypto-dashboard](https://github.com/SYEDAZEEM1102/crypto-dashboard) | Market data visualization |
-| [crypto-narrative-engineer](https://github.com/SYEDAZEEM1102/crypto-narrative-engineer) | Narrative tracking tools |
+15+ years across financial markets and crypto (Thomson Reuters, Refinitiv, Dubai blockchain venture). 3+ years at the intersection of AI and content.
 
 ---
 
-### Background
+### Featured projects
 
-- **Currently:** Crypto Research & Market Strategy — producing daily institutional-style reports, mindshare analysis, and educational content for 800K+ audience
-- **Previously:** Thomson Reuters — built crypto and commodities feed desk from scratch (exchange → server → product infrastructure)
-- **Trading:** 8+ years hands-on across spot, perpetuals, DeFi, and cross-venue arbitrage
+| Project | What it does |
+|---|---|
+| **[llm-council](https://github.com/SYEDAZEEM1102/llm-council)** | Multi-model LLM deliberation pipeline — independent opinions → anonymized peer review → chairman synthesis. FastAPI + React + SSE. |
+| **[whitepaper-destroyer](https://github.com/SYEDAZEEM1102/whitepaper-destroyer)** | Drop a crypto whitepaper PDF → instant summary, tokenomics, red flags, verdict. Gemini + FastAPI + React. |
+| **[ct-thread-machine](https://github.com/SYEDAZEEM1102/ct-thread-machine)** | Paste content → viral-optimized Crypto Twitter threads. 5 hook variants, 5 tones, real-time preview. |
+| **[cryptointel](https://github.com/SYEDAZEEM1102/cryptointel)** | Open-source crypto research automation — aggregates on-chain, CT sentiment, news, derivatives into structured intelligence briefings. |
+| **[funding-rate-analyzer](https://github.com/SYEDAZEEM1102/funding-rate-analyzer)** | Python tool for analyzing perpetual funding rates and flagging leverage extremes across major assets. |
+| **[personal-portfolio-web-link](https://github.com/SYEDAZEEM1102/personal-portfolio-web-link)** | Editorial single-page portfolio. Vanilla HTML/CSS/JS, deployed on Netlify. |
 
 ---
 
-### Contact
+### The toolkit
 
-📍 Bangalore, India  
-📧 syedazeem1102@gmail.com
+**AI:** Claude (Sonnet/Opus) · GPT-4o · Gemini · Perplexity Sonar Pro
+**Automation:** n8n · MCP servers · Docker · Claude Cowork
+**Surface:** FastAPI · React + Vite · Next.js · vanilla JS for static sites
+**Research:** Perplexity Pro · primary docs · GitHub repos · industry reports
+
+---
+
+*Currently taking on selected research, automation, and content engagements. If you're shipping something AI-shaped, [say hi](mailto:syedazeem1102@gmail.com).*
